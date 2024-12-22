@@ -1,31 +1,9 @@
 {
-  "instituteLogo":"",
-  "instituteCoverPhoto":"https://sanjoy-git.github.io/projects-static-apis/gangarampur-girls-high-school/images/coverPhoto.jpg",
-  "institutePhoto":"https://sanjoy-git.github.io/projects-static-apis/gangarampur-girls-high-school/images/coverPhoto.jpg",
-  "instituteName": "Gangarampur Girls High School",
-  "instituteNameBangla": "গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয়",
-  "instituteDescription": "Gangarampur Girls High School is an educational establishment that is located at Gangarampur Horitala Shalikha Magura. Its Educational Institute Identification Number or EIIN is 118081. On 01 January, 1972, it was first put into operation. It is a Girl's sort of co-educational program. The institution provides education in the following fields:, Humanities. Its MPO number is 5703051302. It operates on Day shift(s). Its management is Managing. Its recognition is Recognized by the government and the recognition level is Secondary. The school/college has MPO level with MPO number 5703051302 and the MPO type is Yes. Gangarampur Girls High School is under Jessore Education Board.",
-  "instituteDescriptionBangla": "গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয় হল একটি শিক্ষা প্রতিষ্ঠান যা গঙ্গারামপুর হরিতলা শালিখা মাগুরায় অবস্থিত। এর এডুকেশনাল ইনস্টিটিউট আইডেন্টিফিকেশন নম্বর বা EIIN হল 118081। 01 জানুয়ারী, 1972 সালে, এটি প্রথম চালু করা হয়েছিল। এটি একটি মেয়েদের সহ-শিক্ষামূলক প্রোগ্রাম। প্রতিষ্ঠানটি নিম্নলিখিত ক্ষেত্রে শিক্ষা প্রদান করে:, মানবিক। এর এমপিও নম্বর হল 5703051302। এটি দিনের শিফটে কাজ করে। এর ব্যবস্থাপনা হচ্ছে ম্যানেজিং। এর স্বীকৃতি সরকার কর্তৃক স্বীকৃত এবং স্বীকৃতি স্তরটি সেকেন্ডারি। স্কুল/কলেজের এমপিও লেভেলের এমপিও নম্বর 5703051302 এবং এমপিওর ধরন হ্যাঁ। গঙ্গারামপুর বালিকা উচ্চ বিদ্যালয় যশোর শিক্ষা বোর্ডের অধীনেিওর ধরন হ্যাঁ। গঙ্গারামপুর বালিকা উচ্চ বিদ্যালয় যশোর শিক্ষা বোর্ডের অধীনে।",
-  "instituteHistory":"",
-  "instituteHistoryBangla":"",
-  "instituteHead":{
-    "photo":"",
-    "name":"",
-    "designation":"",
-    "speech":""
+  "notice":{
+    "driveId":"AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs",
+    "noticeDriveFetchApi":"https://www.googleapis.com/drive/v3/files?q='1Ep83rzgY0go0IukoP11vajyWuiwG5UMn'+in+parents&key=AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs"
   },
-  "instituteContacts":{
-    "address": "Gangarampur, Shalikha, Magura-7632",
-    "phone": "+8801309118081",
-    "email": "taherakhatun879@gmail.com"
-  },
-  "teachers":[
-    {
-      "photo":"",
-      "name":"",
-      "designation":"",
-      "email":"",
-      "phone":""
-    }
-  ]
+  "youtube":{
+    "youtubeFetchApi":"https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyBkxMcwd7270kMGKHu1oMcvyvCfOxV4pjQ"
+  }
 }
