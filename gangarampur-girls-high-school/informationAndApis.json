@@ -19,6 +19,21 @@
     "phone": "+8801309118081",
     "email": "taherakhatun879@gmail.com"
   },
+  "corner":{
+    "youtubeVideoIds":["CLjC8yhJojU","qrnwyw7at_c"],
+    "pintarestPhotos":[
+      {
+        "ids":"326511041751086504",
+        "height":"562",
+        "width":"345"
+      },
+      {
+        "ids":"578642252159542460",
+        "height":"531",
+        "width":"345"
+      }
+    ]
+  },
   "teachers": [
     {
       "photo": "",
@@ -27,5 +42,34 @@
       "email": "",
       "phone": ""
     }
-  ]
+  ],
+  "staffs": [
+    {
+      "photo": "",
+      "name": "",
+      "designation": "",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "committee": [
+    {
+      "photo": "",
+      "name": "",
+      "designation": "",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "photoGalleryPintarestEmbadedIds":[""],
+  "videoGallery":{
+    "youtubeFetchApi":"https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyBkxMcwd7270kMGKHu1oMcvyvCfOxV4pjQ"
+  },
+  "results":{
+    "image":""
+  },
+  "notice":{
+    "driveId":"AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs",
+    "noticeDriveFetchApi":"https://www.googleapis.com/drive/v3/files?q='1Ep83rzgY0go0IukoP11vajyWuiwG5UMn'+in+parents&key=AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs"
+  }
 }

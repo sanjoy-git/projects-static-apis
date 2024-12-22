@@ -1,9 +1,3 @@
 {
-  "notice":{
-    "driveId":"AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs",
-    "noticeDriveFetchApi":"https://www.googleapis.com/drive/v3/files?q='1Ep83rzgY0go0IukoP11vajyWuiwG5UMn'+in+parents&key=AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs"
-  },
-  "youtube":{
-    "youtubeFetchApi":"https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyBkxMcwd7270kMGKHu1oMcvyvCfOxV4pjQ"
-  }
+  "test":"testing"
 }
