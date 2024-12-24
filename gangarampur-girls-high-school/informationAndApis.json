@@ -1,75 +1,228 @@
 {
-  "instituteLogo": "",
-  "instituteCoverPhoto": "https://sanjoy-git.github.io/projects-static-apis/gangarampur-girls-high-school/images/coverPhoto.jpg",
-  "institutePhoto": "https://sanjoy-git.github.io/projects-static-apis/gangarampur-girls-high-school/images/coverPhoto.jpg",
-  "instituteName": "Gangarampur Girls High School",
+  "instituteLogoUrl": "https://i.pinimg.com/736x/ac/58/f1/ac58f1720a90a6d89e1d9d571511b9f8.jpg",
+  "instituteCoverPhotoUrl": "https://i.pinimg.com/1200x/66/e9/ed/66e9ede8bc2d648381744c399bca0059.jpg",
+  "institutePhotoUrl": "https://i.pinimg.com/1200x/66/e9/ed/66e9ede8bc2d648381744c399bca0059.jpg",
+  "instituteNameEnglish": "Gangarampur Girls High School",
   "instituteNameBangla": "গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয়",
-  "instituteDescription": "Gangarampur Girls High School is an educational establishment that is located at Gangarampur Horitala Shalikha Magura. Its Educational Institute Identification Number or EIIN is 118081. On 01 January, 1972, it was first put into operation. It is a Girl's sort of co-educational program. The institution provides education in the following fields:, Humanities. Its MPO number is 5703051302. It operates on Day shift(s). Its management is Managing. Its recognition is Recognized by the government and the recognition level is Secondary. The school/college has MPO level with MPO number 5703051302 and the MPO type is Yes. Gangarampur Girls High School is under Jessore Education Board.",
+  "instituteDescriptionEnglish": "Gangarampur Girls High School is an educational establishment that is located at Gangarampur Horitala Shalikha Magura. Its Educational Institute Identification Number or EIIN is 118081. On 01 January, 1972, it was first put into operation. It is a Girl's sort of co-educational program. The institution provides education in the following fields:, Humanities. Its MPO number is 5703051302. It operates on Day shift(s). Its management is Managing. Its recognition is Recognized by the government and the recognition level is Secondary. The school/college has MPO level with MPO number 5703051302 and the MPO type is Yes. Gangarampur Girls High School is under Jessore Education Board.",
   "instituteDescriptionBangla": "গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয় হল একটি শিক্ষা প্রতিষ্ঠান যা গঙ্গারামপুর হরিতলা শালিখা মাগুরায় অবস্থিত। এর এডুকেশনাল ইনস্টিটিউট আইডেন্টিফিকেশন নম্বর বা EIIN হল 118081। 01 জানুয়ারী, 1972 সালে, এটি প্রথম চালু করা হয়েছিল। এটি একটি মেয়েদের সহ-শিক্ষামূলক প্রোগ্রাম। প্রতিষ্ঠানটি নিম্নলিখিত ক্ষেত্রে শিক্ষা প্রদান করে:, মানবিক। এর এমপিও নম্বর হল 5703051302। এটি দিনের শিফটে কাজ করে। এর ব্যবস্থাপনা হচ্ছে ম্যানেজিং। এর স্বীকৃতি সরকার কর্তৃক স্বীকৃত এবং স্বীকৃতি স্তরটি সেকেন্ডারি। স্কুল/কলেজের এমপিও লেভেলের এমপিও নম্বর 5703051302 এবং এমপিওর ধরন হ্যাঁ। গঙ্গারামপুর বালিকা উচ্চ বিদ্যালয় যশোর শিক্ষা বোর্ডের অধীনেিওর ধরন হ্যাঁ। গঙ্গারামপুর বালিকা উচ্চ বিদ্যালয় যশোর শিক্ষা বোর্ডের অধীনে।",
-  "instituteHistory": "",
-  "instituteHistoryBangla": "",
-  "instituteHead": {
-    "photo": "",
-    "name": "",
-    "designation": "",
-    "speech": ""
-  },
+  "instituteHistoryEnglish": "On 01 January, 1972, it was first put into operation.",
+  "instituteHistoryBangla": "01 জানুয়ারী, 1972 সালে, এটি প্রথম চালু করা হয়েছিল।",
   "instituteContacts": {
     "address": "Gangarampur, Shalikha, Magura-7632",
     "phone": "+8801309118081",
-    "email": "taherakhatun879@gmail.com"
+    "email": "taherakhatun879@gmail.com",
+    "googleLocationUlr": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=gangarampur%20girls%20school&zoom=10&maptype=roadmap",
+    "pintarestUrl":"https://www.pinterest.com/gangarampurgirlshighschool",
+    "facebookPageUrl":"https://www.facebook.com/profile.php?id=100046073074078",
+    "youtubeUrl":"https://www.youtube.com/@GangarampurGirlsHighSchool"
   },
-  "corner":{
-    "youtubeVideoIds":["CLjC8yhJojU","qrnwyw7at_c"],
-    "pintarestPhotos":[
+  "corner": {
+    "youtubeVideoIds": ["CLjC8yhJojU", "qrnwyw7at_c"],
+    "pintarestPhotos": [
       {
-        "ids":"326511041751086504",
-        "height":"562",
-        "width":"345"
+        "ids": "326511041751086504",
+        "height": "562",
+        "width": "345"
       },
       {
-        "ids":"578642252159542460",
-        "height":"531",
-        "width":"345"
+        "ids": "578642252159542460",
+        "height": "531",
+        "width": "345"
       }
     ]
   },
   "teachers": [
     {
-      "photo": "",
-      "name": "",
-      "designation": "",
-      "email": "",
-      "phone": ""
+      "photoUrl": "https://i.pinimg.com/736x/c5/1b/fb/c51bfbefb57ad4a5aa1b4d6d82bd56b5.jpg",
+      "nameEnglish": "Tahera Khatun",
+      "nameBangla": "তাহেরা খাতুন",
+      "designationEnglish": "Head Teacher",
+      "designationBangla": "প্রধান শিক্ষক",
+      "speechEnglish": "Since the beginning of human creation, educational institutions have been established in an effort to create a civilized human society with the aim of ensuring the overall welfare of the society. It is important for girls to be educated to build an educated society. That is why Napoleon's famous saying is, 'Give me an educated mother, I will give you an educated nation.' When the whole world is at the extreme limit of knowledge, science and information technology, when the country is moving towards the determination of building a digital Bangladesh, our students from the small group of Gangarampur Secondary Girls' School also want to take part in the development.",
+      "speechBangla": "মানব সৃষ্টির শুরু থেকে সমাজের সার্বিক কল্যাণ নিশ্চিত করার উদ্দেশ্যে সভ্য মানব সমাজ সৃষ্টির প্রয়াসে গড়ে উঠেছে শিক্ষা প্রতিষ্ঠান। শিক্ষিত সমাজ গঠনের জন্য মেয়েদের শিক্ষিত হওয়া গুরুত্বপূর্ণ। তাইতো নেপোলিয়নের প্রখ্যাত উক্তি তুমি আমাকে শিক্ষিত মা দাও, আমি তোমাকে শিক্ষিত জাতি দেব। জ্ঞানবিজ্ঞান তথ্যপ্রযুক্তির চরম সীমায় যখন গোটা পৃথিবী, ডিজিটাল বাংলাদেশ গড়ার প্রত্যয় দেশ যখন চলমান তখন গংগারামপুর মাধ্যমিক বালিকা বিদ্যালয় এর ক্ষুদ্রগণ্ডি থেকে আমাদের শিক্ষার্থীরাও উন্নয়নে অংশ গ্রহণ করতে চাই। আল্লাহ আমাদের সহায় হোন।",
+      "contacts": {
+        "phoneNo": "+8801309118081",
+        "email": "taherakhatun879@gmail.com",
+        "facebook": ""
+      }
+    },
+    {
+      "photoUrl": "https://i.pinimg.com/736x/d5/da/fc/d5dafc4569880dfd23dc534dfd21e9c8.jpg",
+      "nameEnglish": "Sreebash Kumar Dutta",
+      "nameBangla": "শ্রীবাস কুমার দত্ত",
+      "designationEnglish": "Assistant Head Teacher",
+      "designationBangla": "সহকারি প্রধান শিক্ষক",
+      "speechEnglish": "",
+      "speechBangla": "",
+      "contacts": {
+        "phoneNo": "",
+        "email": "",
+        "facebook": ""
+      }
+    },
+    {
+      "photoUrl": "https://i.pinimg.com/736x/34/eb/3f/34eb3fcbfc4716c5082ca410ea10dd66.jpg",
+      "nameEnglish": "Mst Yeakutunnesa",
+      "nameBangla": "মোসাঃ ইয়াকুতুন্নেছা",
+      "designationEnglish": "Assistant Teacher (ICT)",
+      "designationBangla": "সহকারি শিক্ষক",
+      "speechEnglish": "",
+      "speechBangla": "",
+      "contacts": {
+        "phoneNo": "",
+        "email": "",
+        "facebook": ""
+      }
     }
   ],
   "staffs": [
     {
-      "photo": "",
-      "name": "",
-      "designation": "",
-      "email": "",
-      "phone": ""
+      "photoUrl": "https://i.pinimg.com/736x/ee/b7/ab/eeb7ab41fbef0d45800b3ae7f807dd61.jpg",
+      "nameEnglish": "Sanat Kumar Nandi",
+      "nameBangla": "সনৎ কুমার নন্দী",
+      "designationEnglish": "Cleaning worker",
+      "designationBangla": "পরিচ্ছন্নতা কর্মী",
+      "speechEnglish": "",
+      "speechBangla": "",
+      "contacts": {
+        "phoneNo": "",
+        "email": "",
+        "facebook": ""
+      }
     }
   ],
   "committee": [
     {
-      "photo": "",
-      "name": "",
-      "designation": "",
-      "email": "",
-      "phone": ""
+      "photoUrl": "",
+      "nameEnglish": "",
+      "nameBangla": "",
+      "designationEnglish": "",
+      "designationBangla": "",
+      "speechEnglish": "",
+      "speechBangla": "",
+      "contacts": {
+        "phoneNo": "",
+        "email": "",
+        "facebook": ""
+      }
     }
   ],
-  "photoGalleryPintarestEmbadedIds":[""],
-  "videoGallery":{
-    "youtubeFetchApi":"https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyBkxMcwd7270kMGKHu1oMcvyvCfOxV4pjQ"
+  "photoGalleryPintarestEmbadedIds": [""],
+  "videoGallery": {
+    "youtubeFetchApi": "https://www.googleapis.com/youtube/v3/search?channelId=UCGmNAK27aBaE5vUBDkIJFvg&type=video&key=AIzaSyBkxMcwd7270kMGKHu1oMcvyvCfOxV4pjQ"
   },
-  "results":{
-    "image":""
+  "notice": {
+    "driveId": "AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs",
+    "noticeDriveFetchApi": "https://www.googleapis.com/drive/v3/files?q='1Ep83rzgY0go0IukoP11vajyWuiwG5UMn'+in+parents&key=AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs"
   },
-  "notice":{
-    "driveId":"AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs",
-    "noticeDriveFetchApi":"https://www.googleapis.com/drive/v3/files?q='1Ep83rzgY0go0IukoP11vajyWuiwG5UMn'+in+parents&key=AIzaSyDlFrE4u2AAudHc34DQDNYPVzzVBr8BDBs"
+  "sliderImages": [
+    {
+      "title": "Gangarampur Girls High School",
+      "imageUrl": "https://i.pinimg.com/736x/90/7d/2f/907d2f0100808b16e5d6782ca9071e87.jpg"
+    },
+    {
+      "title": "Gangarampur Girls High School",
+      "imageUrl": "https://i.pinimg.com/1200x/9c/35/d5/9c35d5efacfad5dea187d5afc9595dfe.jpg"
+    },
+    {
+      "title": "Gangarampur Girls High School",
+      "imageUrl": "https://i.pinimg.com/1200x/1a/b5/2b/1ab52b3afe7de0088bb292fc75492829.jpg"
+    }
+  ],
+  "sovapoti": {
+    "photoUrl": "https://i.pinimg.com/736x/8a/95/4a/8a954acbaeb7977a69243528939e9a7b.jpg",
+    "nameEnglish": "",
+    "nameBangla": "তরফদার মাকসুদার রহমান (ডলার)",
+    "designationEnglish": "",
+    "designationBangla": "সভাপতি",
+    "speechEnglish": "Bangladesh is moving forward in line with the current world. But Bangladesh is still far behind in the field of education. Gangarampur Secondary Girls' School is committed to improving the quality of education and developing ideal people. It is the responsibility of Gangarampur Secondary Girls' School to develop your child's talent. Along with education, Gangarampur Secondary Girls' School is committed to providing your child with physical exercise, conduct, communication and moral education. The school's managing committee, teachers/staff, guardians and students have an unbreakable family-like bond. Which has attracted many. And for this, I feel proud as the president of the managing committee. It is hoped that the current students of this school will face all the challenges in the era of globalization and develop themselves appropriately and play their role in building an enlightened country. May Allah help us.",
+    "speechBangla": "বর্তমান বিশ্বের সাথে তাল মিলিয়ে এগিয়ে যাচ্ছে বাংলাদেশ। কিন্তু শিক্ষা ক্ষেত্রে বাংলাদেশ এখনো অনেক পিছিয়ে রয়েছে। শিক্ষার মান উন্নয়ন ও আদর্শ মানুষ হিসেবে গড়ে তোলার দৃঢ় প্রত্যয়ে গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয়। মেধা আপনার সন্তানের, একে বিকশিত করার দায়িত্ব গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয়ের। শিক্ষার পাশাপাশি আপনার সন্তানের শরীর চর্চা, আচার-আচরণ, কথা বার্তা ও নীতি নৈতিকতার শিক্ষা প্রদানে গঙ্গারামপুর মাধ্যমিক বালিকা বিদ্যালয় দৃঢ় প্রতিজ্ঞাবদ্ধ। বিদ্যালয়ের ম্যানেজিং কমিটি ,শিক্ষক/কর্মচারী, অভিভাবক ও শিক্ষার্থী উভয়ের মধ্যে একটি পরিবারের মত মিলবন্ধন অটুট। যা অনেককে আকৃষ্ট করেছে। আর এজন্য ম্যানেজিং কমিটির সভাপতি হিসেবে আমি গর্ববোধ করি। প্রত্যাশা রইল এই বিদ্যালয়ের বর্তমান ছাত্র-ছাত্রীরা বিশ্বয়নের যুগে সমস্থ চ্যালেঞ্জ মোকাবেলা করে নিজেদেরকে উপযুক্ত করে গড়ে তুলবে এবং আলোকিত দেশ গঠনের তাদের ভূমিকা খাকবে। 'আল্লাহ আমাদের সহায় হোন'।",
+    "contacts": {
+      "phoneNo": "+8801309118081",
+      "email": "taherakhatun879@gmail.com",
+      "facebook": ""
+    }
+  },
+  "govment": [
+    {
+      "photoUrl": "",
+      "nameEnglish": "",
+      "nameBangla": "",
+      "designationEnglish": "",
+      "designationBangla": "",
+      "speechEnglish": "",
+      "speechBangla": ""
+    }
+  ],
+  "famousPeople": [
+    {
+      "photoUrl": "https://i.pinimg.com/736x/b5/8d/f9/b58df9c6fdaf8b8b5c9e1bd844c95de4.jpg",
+      "name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "designation": "বাংলাদেশের প্রথম রাষ্ট্রপতি ও জাতির পিতা",
+      "quote": "“এবারের সংগ্রাম আমাদের মুক্তির সংগ্রাম, এবারের সংগ্রাম স্বাধীনতার সংগ্রাম!”"
+    },
+    {
+      "photoUrl": "https://i.pinimg.com/736x/1c/42/20/1c42200706107264e07f3cef8c49e12c.jpg",
+      "name": "অ্যালবার্ট আইনস্টাইন",
+      "designation": "বিশ্ববিখ্যাত পদার্থবিজ্ঞানী",
+      "quote": "”যে কথনও ভুল করেনা। সে নতুন কিছু করার চেষ্টা করে না”"
+    },
+    {
+      "photoUrl": "https://i.pinimg.com/736x/dc/cb/d5/dccbd5bccbe614992316eda657609873.jpg",
+      "name": "এরিস্টটল",
+      "designation": "বিশ্ববিখ্যাত গ্রিক বিজ্ঞানী ও দার্শনিক",
+      "quote": "“শিক্ষার শেকড়ের স্বাদ তেঁতো হলেও এর ফল মিষ্টি”"
+    },
+    {
+      "photoUrl": "https://i.pinimg.com/736x/9c/13/0f/9c130f4a650c7f7c799a898d101c474c.jpg",
+      "name": "এ.পি.জে. আবদুল কালাম",
+      "designation": "ভারতের একাদশ রাষ্ট্রপতি ও বিজ্ঞানী",
+      "quote": "“ স্বপ্ন সেটা নয় যেটা তুমি ঘুমিয়ে ঘুমিয়ে দেখাে। স্বপ্ন হলাে সেটাই যা পূরণের অদম্য ইচ্ছা তােমায় ঘুমাতে দেবে না। ”"
+    }
+  ],
+  "footerLinks": {
+    "quickLinks": [
+      {
+        "title": "মাধ্যমিক ও উচ্চ শিক্ষা বিভাগ",
+        "link": "https://www.shed.gov.bd"
+      },
+      {
+        "title": "মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর",
+        "link": "https://dshe.gov.bd"
+      },
+      {
+        "title": " জাতীয় ওয়েব পোর্টাল",
+        "link": "https://bangladesh.gov.bd"
+      },
+      {
+        "title": "Ministry of education Board",
+        "link": "http://www.educationboard.gov.bd"
+      },
+      {
+        "title": "Education Board Results",
+        "link": "http://www.educationboardresults.gov.bd"
+      },
+      {
+        "title": "ব্যানবেইস",
+        "link": "https://banbeis.gov.bd"
+      }
+    ],
+    "learningLinks": [
+      {
+        "title": "10 Minute School",
+        "link": "https://10minuteschool.com"
+      },
+      {
+        "title": "W3 Schools",
+        "link": "https://www.w3schools.com"
+      }
+    ],
+    "helpingTools": [
+      {
+        "title": "QR-Scanner & Generator",
+        "link": "https://qrcode.gangghs.edu.bd"
+      }
+    ]
   }
 }
